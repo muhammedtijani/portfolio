@@ -82,3 +82,25 @@ export const SectionText = styled.p`
     padding-bottom: 16px;
   }
 `;
+export const Divider = styled.div`
+  width: 64px;
+  height: 6px;
+  border-radius: 10px;
+  background-color: white;
+  background: ${(props) =>
+    props.colorAlt
+      ? "linear-gradient(270deg, #F46737 0%, #945DD6 100%)"
+      : "linear-gradient(270deg, #13ADC7 0%, #945DD6 100%)"};
+
+  margin: ${(props) => (props.divider ? "4rem 0" : "")};
+
+  @media screen and (max-width: 768px) {
+    width: 48px;
+    height: 4px;
+  }
+
+  @media screen and (max-width: 640px) {
+    width: 32px;
+    height: 2px;
+  }
+`;

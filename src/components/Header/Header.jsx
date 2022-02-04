@@ -8,7 +8,9 @@ const Header = () => {
     <Wrapper>
       <div className="logo">
         <RiCodeBoxFill size="3rem" />
-        <span>MuhammedTijani</span>
+        <span style={{ marginLeft: "1.5rem", fontSize: "2rem" }}>
+          MuhammedTijani
+        </span>
       </div>
 
       <div className="nav">
