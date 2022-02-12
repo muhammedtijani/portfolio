@@ -11,9 +11,9 @@ const Hero = (props) => {
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          I'm a web developer living in Lagos Nigeria, I make web applications,
-          usually with ReactJS. Devoted to crafting beautiful web experiences
-          focused on simplicity and purpose
+          I'm a Frontend web developer, I make web applications, usually with
+          ReactJS. Devoted to crafting beautiful web experiences focused on
+          simplicity and purpose
         </SectionText>
         <Button>Learn More</Button>
       </Wrapper>
