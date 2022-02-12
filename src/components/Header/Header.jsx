@@ -20,13 +20,25 @@ const Header = () => {
       </div>
 
       <div className="social-icons">
-        <a href="https://github.com/muhammedtijani">
+        <a
+          href="https://github.com/muhammedtijani"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
           <AiFillGithub size="3rem" />
         </a>
-        <a href="https://github.com/muhammedtijani">
+        <a
+          href="https://www.linkedin.com/in/muhammedtijani/"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
           <AiFillLinkedin size="3rem" />
         </a>
-        <a href="https://github.com/muhammedtijani">
+        <a
+          href="https://github.com/muhammedtijani"
+          target="_blank"
+          rel="noreferrer noopener"
+        >
           <AiFillInstagram size="3rem" />
         </a>
       </div>

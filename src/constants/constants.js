@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "MERN Memories",
+    title: "Cryptoverse",
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      "Using React, AntDesign, Multiple APIs powered by  https://rapidapi.com. Application - from start to finish. The App is called Cyptoverse and it is a simple cryptocurrencies app that allows users to view news and events that happened in the cryptocurrencies live.",
     image: "/images/1.png",
-    tags: ["Mongo", "Express", "React", "Node"],
-    source: "https://delta.coolzyte.com/",
-    visit: "https://github.com/",
+    tags: ["RapidAPI", "ChartJS", "React", "AntDesign"],
+    source: "https://github.com/muhammedtijani/cryptonews",
+    visit: "https://mt-cryptonews.netlify.app/",
     id: 0,
   },
   {

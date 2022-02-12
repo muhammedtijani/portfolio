@@ -41,10 +41,20 @@ const Project = (props) => {
                 </ul>
               </div>
               <div className="utility-list">
-                <a href={visit} className="external-links">
+                <a
+                  href={source}
+                  className="external-links"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Code
                 </a>
-                <a href={source} className="external-links">
+                <a
+                  href={visit}
+                  className="external-links"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Source
                 </a>
               </div>
