@@ -10,13 +10,13 @@ export const projects = [
     id: 0,
   },
   {
-    title: "E-Commerce",
+    title: "Realtor",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: "/images/2.png",
-    tags: ["React", "JavaScript"],
-    source: "https://gpt3.coolzyte.com/",
-    visit: "https://github.com/",
+      "Using React, NextJS, Chakra-UI and RapidAPI powered by  https://rapidapi.com. RealEstate application with rental homes and for sale properties. Properties filtering, properties detail page and image carousel this is a unique and complex RealEstate app.",
+    image: "/images/5.png",
+    tags: ["React", "NextJS", "ChakraUI"],
+    source: "https://github.com/muhammedtijani/realtor",
+    visit: "https://realtor-975l75ho1-muhammedtijani.vercel.app",
     id: 1,
   },
   {
