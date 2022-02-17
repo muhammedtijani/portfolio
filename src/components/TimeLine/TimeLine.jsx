@@ -62,9 +62,11 @@ const TimeLine = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I'm a Frontend web developer, I make web applications, usually with
-        REACT JS. Devoted to crafting beautiful web experiences focused on
-        simplicity and purpose
+        My name is Muhammed Tijani, and I work as a Front-End Web Developer.
+        I've been a web developer for four years. I have created numerous
+        websites. As a freelancer, I've worked on some excellent web design
+        projects. I'm also studying Back-End Development in order to become a
+        Full Stack Web Developer.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
