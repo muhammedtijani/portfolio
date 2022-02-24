@@ -1,22 +1,22 @@
 export const projects = [
   {
-    title: "Cryptoverse",
+    title: "Cryptonews",
     description:
-      "Using React, AntDesign, Multiple APIs powered by  https://rapidapi.com. Application - from start to finish. The App is called Cyptoverse and it is a simple cryptocurrencies app that allows users to view news and events that happened in the cryptocurrencies live.",
+      "Using React, AntDesign, Multiple APIs powered by  rapidapi. Application - from start to finish. The App is called Cyptonews and it is a simple cryptocurrencies app that allows users to view news and events that happened in the cryptocurrencies live.",
     image: "/images/1.png",
     tags: ["RapidAPI", "ChartJS", "React", "AntDesign"],
     source: "https://github.com/muhammedtijani/cryptonews",
-    visit: "https://mt-cryptonews.netlify.app/",
+    visit: "https://cryptonews.coolzyte.com/",
     id: 0,
   },
   {
     title: "Realtor",
     description:
-      "Using React, NextJS, Chakra-UI and RapidAPI powered by  https://rapidapi.com. RealEstate application with rental homes and for sale properties. Properties filtering, properties detail page and image carousel this is a unique and complex RealEstate app.",
+      "Using React, NextJS, Chakra-UI and RapidAPI powered by rapidapi RealEstate application with rental homes and for sale properties. Properties filtering, properties detail page and image carousel this is a unique and complex RealEstate app.",
     image: "/images/5.png",
-    tags: ["React", "NextJS", "ChakraUI"],
+    tags: ["React", "NextJS", "Chakra-UI"],
     source: "https://github.com/muhammedtijani/realtor",
-    visit: "https://realtor-975l75ho1-muhammedtijani.vercel.app",
+    visit: "https://realtor-muhammedtijani.vercel.app/",
     id: 1,
   },
   {
@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/6.png",
     tags: ["React", "Material UI", "RapidAPI", "Google Map"],
     source: "https://github.com/muhammedtijani/travel_advisor",
-    visit: "https://mt-travel-advisor.netlify.app/",
+    visit: "https://traveladvisor.coolzyte.com/",
     id: 2,
   },
   {
@@ -36,15 +36,15 @@ export const projects = [
     image: "/images/7.png",
     tags: ["React", "CSS"],
     source: "https://github.com/muhammedtijani/restaurant",
-    visit: "https://mt-restaurant.netlify.app/",
+    visit: "https://restaurant.coolzyte.com/",
     id: 3,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: "Started my journey" },
-  { year: 2019, text: "Worked as a freelance developer" },
-  { year: 2020, text: "Worked as a project manager" },
+  { year: 2018, text: "Work as a Frontend Developer at Light Infotech" },
+  { year: 2019, text: "First experience as a freelancer working remotely" },
+  { year: 2020, text: "Worked as a Full Stack Developer at Freedom Synergy" },
   { year: 2021, text: "Intensive training on skill development" },
-  { year: 2022, text: "Updating my skill" },
+  { year: 2022, text: "Updating my skill as a Full Stack Developer" },
 ];

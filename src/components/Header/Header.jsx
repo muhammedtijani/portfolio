@@ -8,9 +8,7 @@ const Header = () => {
     <Wrapper>
       <div className="logo">
         <RiCodeBoxFill size="3rem" />
-        <span style={{ marginLeft: "1.5rem", fontSize: "2rem" }}>
-          MuhammedTijani
-        </span>
+        <span style={{ marginLeft: "1.5rem", fontSize: "2rem" }}>Coolzyte</span>
       </div>
 
       <div className="nav">
@@ -35,7 +33,7 @@ const Header = () => {
           <AiFillLinkedin size="3rem" />
         </a>
         <a
-          href="https://github.com/muhammedtijani"
+          href="https://github.com/coolzyte"
           target="_blank"
           rel="noreferrer noopener"
         >

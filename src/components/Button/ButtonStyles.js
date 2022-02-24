@@ -56,6 +56,7 @@ export const ButtonFront = styled.button`
   font-weight: 600;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
   box-shadow: ${({ disabled }) =>
     disabled
       ? "inset 0px 2px 1px rgba(46, 49, 55, 0.15), inset 0px 0px 4px rgba(20, 20, 55, 0.3)"

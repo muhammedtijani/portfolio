@@ -1,6 +1,7 @@
 import { Wrapper } from "./HeroStyles";
 import { Section, SectionTitle, SectionText } from "../../AppStyles";
 import Button from "../Button/Button";
+import Resume from "../../assets/myResume.pdf";
 
 const Hero = (props) => {
   return (
@@ -11,11 +12,15 @@ const Hero = (props) => {
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          I'm a Front-End Web Developer who creates web applications with React
-          JS. Dedicated to creating beautiful web experiences with a focus on
-          simplicity and purpose.
+          I'm a Full Stack Web Developer who specializes in React JS web
+          applications. Dedicated to creating beautiful web experiences that are
+          simple and purposeful.
         </SectionText>
-        <Button>Learn More</Button>
+        <Button>
+          <a href={Resume} download>
+            Download Resume
+          </a>
+        </Button>
       </Wrapper>
     </Section>
   );

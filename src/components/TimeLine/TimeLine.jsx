@@ -62,11 +62,11 @@ const TimeLine = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        My name is Muhammed Tijani, and I work as a Front-End Web Developer.
-        I've been a web developer for four years. I have created numerous
-        websites. As a freelancer, I've worked on some excellent web design
-        projects. I'm also studying Back-End Development in order to become a
-        Full Stack Web Developer.
+        Muhammed Tijani is my name, and I work as a Full Stack Web Developer.
+        For the past four years, I've worked as a web developer. I've built
+        plenty of websites. I've worked on some fantastic web design projects as
+        a freelancer. I'm currently honing my abilities as a Full Stack Web
+        Developer.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

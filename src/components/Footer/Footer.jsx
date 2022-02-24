@@ -8,13 +8,13 @@ const Footer = () => {
         <div className="link-column">
           <h4 className="link-title">Call</h4>
           <a href="tel:+2348076319032 " className="link-item">
-            +2348076319032
+            +234-807-631-9032
           </a>
         </div>
         <div className="link-column">
           <h4 className="link-title">Email</h4>
           <a href="mailto:tundecool23@gmail.com" className="link-item">
-            tundecool23@gmail.com
+            coolzyte@gmail.com
           </a>
         </div>
       </ul>
@@ -38,7 +38,7 @@ const Footer = () => {
             <AiFillLinkedin size="3rem" />
           </a>
           <a
-            href="https://github.com/muhammedtijani"
+            href="https://github.com/coolzyte"
             target="_blank"
             rel="noreferrer noopener"
           >
