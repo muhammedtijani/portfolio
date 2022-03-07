@@ -12,7 +12,7 @@ const Hero = (props) => {
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          I'm a Full Stack Web Developer who specializes in React JS web
+          I'm a Frontend Web Developer who specializes in React JS web
           applications. Dedicated to creating beautiful web experiences that are
           simple and purposeful.
         </SectionText>
