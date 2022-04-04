@@ -62,11 +62,16 @@ const TimeLine = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Muhammed Tijani is my name, and I work as a Frontend Web Developer.
-        Results-oriented web developer offering extensive experience in design
-        and layout. Highly educated in various programming languages and coding.
-        Seeking position in fast-paced company that appreciates hard work,
-        dedication, and evolving technical skills.
+        Hello there! My name is Muhammed, and I adore creating things that are
+        only accessible through the internet to the general public. My interest
+        in developing a landing page for my own resume and uploading it online
+        peaked in 2014 when I learned that the process of constructing a landing
+        page taught me a great deal about HTML and CSS.
+        <br /> Fast forward to now, and I've had the pleasure of working at a
+        variety of companies, including an advertising agency, a start-up, a
+        large corporation, and a student-run design studio. In my current role
+        as a freelancer, my primary focus is on developing accessible, inclusive
+        products and digital experiences for a diverse range of clientele.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

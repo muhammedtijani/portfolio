@@ -7,14 +7,13 @@ const Hero = (props) => {
   return (
     <Section row nopadding>
       <Wrapper>
-        <SectionTitle>
-          Welcome To <br />
-          My Personal Portfolio
-        </SectionTitle>
+        <SectionText>Hi, my name is</SectionText>
+        <SectionTitle>Muhammed Tijani</SectionTitle>
+        <SectionTitle>I build things for the web</SectionTitle>
         <SectionText>
-          I'm a Frontend Web Developer who specializes in React JS web
-          applications. Dedicated to creating beautiful web experiences that are
-          simple and purposeful.
+          I work as a software developer, specializing in the creation (and, on
+          occasion, the design) of extraordinary digital experiences. Dedicated
+          to creating beautiful web experiences that are simple and purposeful.
         </SectionText>
         <Button>
           <a href={Resume} download>

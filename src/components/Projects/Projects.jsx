@@ -6,18 +6,11 @@ const Project = (props) => {
   return (
     <Section nopadding id="projects">
       <Divider />
-      <SectionTitle main>Projects</SectionTitle>
+      <SectionTitle main>Selected Projects</SectionTitle>
       <Container>
         {projects.map((project, index) => {
-          const {
-            id,
-            image,
-            title,
-            description,
-            tags,
-            source,
-            visit,
-          } = project;
+          const { id, image, title, description, tags, source, visit } =
+            project;
           return (
             <div className="card" key={id}>
               <img src={image} alt="commerce" />

@@ -1,16 +1,13 @@
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-import { RiCodeBoxFill } from "react-icons/ri";
 
+import Logo from "../../assets/logo.png";
 import { Wrapper } from "./HeaderStyles";
 
 const Header = () => {
   return (
     <Wrapper>
-      <div className="logo">
-        <RiCodeBoxFill size="3rem" />
-        <span style={{ marginLeft: "1.5rem", fontSize: "2rem" }}>
-          Muhammed ST
-        </span>
+      <div className="logo" style={{ marginLeft: "1.5rem", fontSize: "2rem" }}>
+        <img src={Logo} alt="Muhats Logo" />
       </div>
 
       <div className="nav">

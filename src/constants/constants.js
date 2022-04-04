@@ -42,9 +42,12 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: "Work as a Frontend Developer at Light Infotech" },
+  { year: 2016, text: "Work as a Frontend Developer at DLight Infotech" },
   { year: 2019, text: "First experience as a freelancer working remotely" },
-  { year: 2020, text: "Worked as a Full Stack Developer at Freedom Synergy" },
-  { year: 2021, text: "Intensive training on skill development" },
-  { year: 2022, text: "Updating my skill as a Full Stack Developer" },
+  { year: 2020, text: "Worked as a Front-end Developer at Freedom Synergy" },
+
+  {
+    year: 2022,
+    text: "Freelancing and improving my skills as a Full Stack Developer are what I do.",
+  },
 ];
