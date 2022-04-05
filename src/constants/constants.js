@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "Cryptonews",
+    title: "Cryptoverse",
     description:
       "Using React, AntDesign, Multiple APIs powered by  rapidapi. Application - from start to finish. The App is called Cyptonews and it is a simple cryptocurrencies app that allows users to view news and events that happened in the cryptocurrencies live.",
     image: "/images/1.png",
     tags: ["RapidAPI", "ChartJS", "React", "AntDesign"],
     source: "https://github.com/muhammedtijani/cryptonews",
-    visit: "https://cryptonews.coolzyte.com/",
+    visit: "https://cryptoverse.muhats.com/",
     id: 0,
   },
   {
@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/6.png",
     tags: ["React", "Material UI", "RapidAPI", "Google Map"],
     source: "https://github.com/muhammedtijani/travel_advisor",
-    visit: "https://traveladvisor.coolzyte.com/",
+    visit: "https://travel-advisor.muhats.com/",
     id: 2,
   },
   {
