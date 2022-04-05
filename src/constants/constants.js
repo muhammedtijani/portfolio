@@ -30,13 +30,13 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Restaurant",
+    title: "Twitter Clone App",
     description:
-      "Producing creative that captures hearts, inspires minds and delivers business results. A beautiful and simple restaurant website ",
+      "A simple Twitter Clone application created using NextJS, Firebase and Tailwind to mimic the basic design and functionality of the official Twitter app.",
     image: "/images/7.png",
-    tags: ["React", "CSS"],
-    source: "https://github.com/muhammedtijani/restaurant",
-    visit: "https://restaurant.coolzyte.com/",
+    tags: ["NextJS", "Firebase", "Tailwindcss"],
+    source: "https://github.com/muhammedtijani/twitter-clone-muhats",
+    visit: "https://twitter-clone-muhats.vercel.app",
     id: 3,
   },
 ];
